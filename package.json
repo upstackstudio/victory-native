@@ -70,7 +70,7 @@
     "victory-create-container": "^34.1.1",
     "victory-cursor-container": "^34.1.1",
     "victory-errorbar": "^34.1.1",
-    "victory-group": "^34.1.1",
+    "victory-group": "git+https://github.com/upstackstudio/victory-group.git",
     "victory-legend": "^34.1.1",
     "victory-line": "^34.1.1",
     "victory-pie": "^34.1.1",
